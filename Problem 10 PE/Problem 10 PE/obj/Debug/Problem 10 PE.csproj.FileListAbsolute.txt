@@ -1,0 +1,11 @@
+E:\projekat\Problem 10 PE\Problem 10 PE\bin\Debug\Problem 10 PE.exe.config
+E:\projekat\Problem 10 PE\Problem 10 PE\bin\Debug\Problem 10 PE.exe
+E:\projekat\Problem 10 PE\Problem 10 PE\bin\Debug\Problem 10 PE.pdb
+E:\projekat\Problem 10 PE\Problem 10 PE\obj\Debug\Problem 10 PE.csproj.AssemblyReference.cache
+E:\projekat\Problem 10 PE\Problem 10 PE\obj\Debug\Problem 10 PE.csproj.SuggestedBindingRedirects.cache
+E:\projekat\Problem 10 PE\Problem 10 PE\obj\Debug\Problem_10_PE.Form1.resources
+E:\projekat\Problem 10 PE\Problem 10 PE\obj\Debug\Problem_10_PE.Properties.Resources.resources
+E:\projekat\Problem 10 PE\Problem 10 PE\obj\Debug\Problem 10 PE.csproj.GenerateResource.cache
+E:\projekat\Problem 10 PE\Problem 10 PE\obj\Debug\Problem 10 PE.csproj.CoreCompileInputs.cache
+E:\projekat\Problem 10 PE\Problem 10 PE\obj\Debug\Problem 10 PE.exe
+E:\projekat\Problem 10 PE\Problem 10 PE\obj\Debug\Problem 10 PE.pdb
